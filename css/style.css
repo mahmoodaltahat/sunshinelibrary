@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(210, 230, 173);
+  }
+
+  header{
+    background-color: red
+    } 
+
+h1    {
+    text-align: center;
+    color: rgb(243, 247, 53);
+}
+
+#display_image {
+
+    text-align: center
+    width: 100px;
+    height: 100;
+    }
+
+ul li   {
+    color: rgb(252, 0, 0); 
+    border:2px solid rgb(31, 2, 2);
+    display:inline-block ;
+    width: 300px;
+  text-decoration: none;
+        }
+  
+
+. logo {
+
+    text-align: center
+}
