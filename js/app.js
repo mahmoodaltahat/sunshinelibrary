@@ -22,4 +22,4 @@ let number_books = prompt('please enter the number of books  you want to buy or 
 alert('you will get a great discount');
 document.write("<span>" + user_name + " want " + number_books + " books </span>");
 console.log(user_name + "want " + number_books + " books");
-document.write("<span> have a nice day </span>");
+document.write(<p> <br> have a nice day </p>);
